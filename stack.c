@@ -73,6 +73,7 @@ void display()
     {
         printf("%d\t",stack[i]);
     }
+    printf("\n");
 }
 
 
